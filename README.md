@@ -4,6 +4,7 @@
 - Учебные проекты:
   * [Конвертер изображения в текстовую графику](https://github.com/Kira-ka/Image-to-Text-Graphics-Converter)
   * [Мини-проект NMedia](https://github.com/Kira-ka/NMedia)
+  * [Тестовое задание для Android-разработчика от компании Wildberries](https://github.com/Kira-ka/It-s-time-to-travel)
   
 Сертификаты, дипломы:
 - [Git](https://drive.google.com/file/d/1hwS3muCj8yOJvTjBIZA2gMIbJAgV2CAx/view?usp=share_link)
